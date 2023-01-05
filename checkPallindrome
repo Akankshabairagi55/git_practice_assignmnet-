@@ -5,7 +5,7 @@ let bag="";
        
        bag+=str[i]+"";
    }
-   if(str!=bag){
+   if(str==bag){
         console.log("Yes");
        }
        else{
